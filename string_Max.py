@@ -3,6 +3,6 @@
 #I don't think I ever can understand it
 
 def freqLetters(str):
-	
+	test
 
 str_input = str(input())
